@@ -1,0 +1,17 @@
+Max, Min and Median of attribute 'High' for Dogecoin are:  0.7375666 8.918750245356932e-05 0.00191388312546
+Max, Min and Median of attribute 'Low' for Dogecoin are: 0.60816772 8.547439938411117e-05 0.0017718467861310501
+Max, Min and Median of attribute 'Open' for Dogecoin are: 0.68780147 8.715369767742231e-05 0.00184901373473
+Max, Min and Median of attribute 'Close' for Dogecoin are: 0.68477698 8.726520172785968e-05 0.00184435040268945
+Max, Min and Median of attribute 'High' for Ethereum are: 4362.3505418 0.4829879999160766 205.1246310885
+Max, Min and Median of attribute 'Low' for Ethereum are: 3785.84860304 0.4208970069885254 193.302714673
+Max, Min and Median of attribute 'Open' for Ethereum are: 4174.63587254 0.4315890073776245 198.425095911
+Max, Min and Median of attribute 'Close' for Ethereum are: 4168.70104865 0.4348289966583252 198.64369149700002
+Max, Min and Median of attribute 'High' for Bitcoin are: 64863.0989077 74.56109619140625 2387.610107421875
+Max, Min and Median of attribute 'Low' for Bitcoin are: 62208.96436559 65.5260009765625 2178.5
+Max, Min and Median of attribute 'Open' for Bitcoin are: 63523.75486927 68.50499725341797 2269.889892578125
+Max, Min and Median of attribute 'Close' for Bitcoin are: 63503.45793019 68.43099975585938 2286.409912109375
+Number of Occurences of Dogecoin:2760
+Number of Occurences of Ethereum:2160
+Number of Occurences of Bitcoin:2991
+Most frequent category: Bitcoin
+Least frequent category: Ethereum
