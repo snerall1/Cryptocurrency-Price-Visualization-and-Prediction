@@ -4,8 +4,9 @@
 #### 10/23/2022
 
 ## Basic Questions
-**Dataset Author(s):** This data is taken from kaggle which was origially obtained from https://coinmarketcap.com/
-
+**Dataset Author(s):** 
+https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
+(This data is taken from kaggle which was origially obtained from https://coinmarketcap.com/)
 **Dataset Construction Date:** 07/06/2021 (last updated)
 
 **Dataset Record Count:**
@@ -43,6 +44,8 @@ SNo	Name	Symbol	Date	High	Low	Open	Close	Volume	Marketcap
 **Interpretation:** The above record belongs to coin_Ethereum.csv. It shows the highest price, lowest price, opening price, closing price, volume of transactions and market capitalization for the date 2015-08-08 23:59:59.
 
 ## Data Sources
+https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
+
 ### Transformation 	1
 **Description:** Dropped unnecessary columns
 
